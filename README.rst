@@ -24,9 +24,11 @@
 
 
 
-Wavelink is a robust and powerful Lavalink wrapper for `Discord.py <https://github.com/Rapptz/discord.py>`_ and certain supported forks.  
-Wavelink features a fully asynchronous API that's intuitive and easy to use with built in Spotify Support and Node Pool Balancing.  
-This project uses Wavelink 1.3.5 and adapts it to work with Nextcord 2.4.2.
+Wavelink is a robust and powerful Lavalink wrapper for `Discord.py <https://github.com/Rapptz/discord.py>`_ and certain supported forks.   
+
+Wavelink features a fully asynchronous API that's intuitive and easy to use with built in Spotify Support and Node Pool Balancing.   
+
+**This project uses Wavelink 1.3.5 and adapts it to work with Nextcord 2.4.2.**
 
 Documentation
 ---------------------------

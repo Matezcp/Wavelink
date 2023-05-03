@@ -30,11 +30,11 @@ Wavelink features a fully asynchronous API that's intuitive and easy to use with
 
 **This project uses Wavelink 1.3.5 and adapts it to work with Nextcord 2.4.2.**
 
-Documentation
+Official Documentation
 ---------------------------
 `Official Documentation <https://wavelink.readthedocs.io/en/latest/wavelink.html>`_
 
-Support
+Official Support
 ---------------------------
 For support using WaveLink, please join the official `support server
 <https://discord.gg/RAKc3HF>`_ on `Discord <https://discordapp.com/>`_.

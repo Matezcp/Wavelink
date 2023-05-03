@@ -26,6 +26,7 @@
 
 Wavelink is a robust and powerful Lavalink wrapper for `Discord.py <https://github.com/Rapptz/discord.py>`_ and certain supported forks.
 Wavelink features a fully asynchronous API that's intuitive and easy to use with built in Spotify Support and Node Pool Balancing.
+This project takes the Wavelink 1.3.5 and adapted it to works with Nextcord 2.4.2
 
 Documentation
 ---------------------------
@@ -50,13 +51,13 @@ The following commands are currently the valid ways of installing WaveLink.
 
 .. code:: sh
 
-    py -3.9 -m pip install -U Wavelink
+    py -3.9 -m pip install git+https://github.com/Matezcp/Wavelink.git
 
 **Linux**
 
 .. code:: sh
 
-    python3.9 -m pip install -U Wavelink
+    python3.9 -m pip install git+https://github.com/Matezcp/Wavelink.git
 
 Getting Started
 ----------------------------
